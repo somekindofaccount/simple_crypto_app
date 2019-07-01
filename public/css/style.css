@@ -1,0 +1,20 @@
+.main-cnt{
+    background:#212529
+}
+html{
+    background:#212529
+}
+
+.sticky-footer {
+    flex-shrink: none;
+}
+  
+.addbut{
+    background-color: #0074D9;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin:auto
+}
+  
+  
